@@ -1,2 +1,4 @@
 Aquest és el contingut inicial del segon fitxer.
 Edició des de branca1
+
+Edició del fitxer text2 a branca-nova2
