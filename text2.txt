@@ -1,1 +1,2 @@
 Aquest és el contingut inicial del segon fitxer.
+Edició des de branca1
